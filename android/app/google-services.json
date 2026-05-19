@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265938548349",
+    "project_id": "vivero-ceci-app",
+    "storage_bucket": "vivero-ceci-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265938548349:android:3051b09b2f03aed0c4a314",
+        "android_client_info": {
+          "package_name": "com.example.vivero_ceci_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrvV4yarOKT_08aX5ojV6ddQuuDDMbvCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
